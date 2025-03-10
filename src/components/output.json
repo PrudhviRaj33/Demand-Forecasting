@@ -1,0 +1,2512 @@
+[
+    {
+        "date":1422748800000,
+        "Attrition Rate":2.7371082983,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1423353600000,
+        "Attrition Rate":2.9948712329,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1423958400000,
+        "Attrition Rate":3.0911034961,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1424563200000,
+        "Attrition Rate":2.7733077279,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1425168000000,
+        "Attrition Rate":2.8030688473,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1425772800000,
+        "Attrition Rate":3.0053317817,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1426377600000,
+        "Attrition Rate":2.9694475462,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1426982400000,
+        "Attrition Rate":2.7664719387,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1427587200000,
+        "Attrition Rate":2.6915500606,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1428192000000,
+        "Attrition Rate":2.872375319,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1428796800000,
+        "Attrition Rate":3.1136131604,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1429401600000,
+        "Attrition Rate":2.8399529518,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1430006400000,
+        "Attrition Rate":2.6841102167,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1430611200000,
+        "Attrition Rate":3.0404508643,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1431216000000,
+        "Attrition Rate":3.356316552,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1431820800000,
+        "Attrition Rate":2.6606182577,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1432425600000,
+        "Attrition Rate":2.7491109701,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1433030400000,
+        "Attrition Rate":2.9017806371,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1433635200000,
+        "Attrition Rate":3.2714926972,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1434240000000,
+        "Attrition Rate":2.8011261018,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1434844800000,
+        "Attrition Rate":2.6568258012,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1435449600000,
+        "Attrition Rate":2.9223023121,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1436054400000,
+        "Attrition Rate":3.0762877764,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1436659200000,
+        "Attrition Rate":2.4906343469,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1437264000000,
+        "Attrition Rate":2.7191032422,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1437868800000,
+        "Attrition Rate":3.0014610719,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1438473600000,
+        "Attrition Rate":3.3724292735,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1439078400000,
+        "Attrition Rate":2.554652523,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1439683200000,
+        "Attrition Rate":2.6250090249,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1440288000000,
+        "Attrition Rate":2.8450553962,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1440892800000,
+        "Attrition Rate":3.1452494183,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1441497600000,
+        "Attrition Rate":2.5749666773,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1442102400000,
+        "Attrition Rate":2.7897276303,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1442707200000,
+        "Attrition Rate":2.9802043376,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1443312000000,
+        "Attrition Rate":2.9559961533,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1443916800000,
+        "Attrition Rate":2.7646106054,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1444521600000,
+        "Attrition Rate":2.7320443632,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1445126400000,
+        "Attrition Rate":2.8543310918,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1445731200000,
+        "Attrition Rate":3.102418289,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1446336000000,
+        "Attrition Rate":2.7294506571,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1446940800000,
+        "Attrition Rate":2.7718624807,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1447545600000,
+        "Attrition Rate":2.9437472822,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1448150400000,
+        "Attrition Rate":3.3616764258,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1448755200000,
+        "Attrition Rate":2.6553586783,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1449360000000,
+        "Attrition Rate":2.7924500906,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1449964800000,
+        "Attrition Rate":3.0822284384,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1450569600000,
+        "Attrition Rate":3.051889893,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1451174400000,
+        "Attrition Rate":2.7935672682,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1451779200000,
+        "Attrition Rate":2.7307350105,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1452384000000,
+        "Attrition Rate":2.8671067949,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1452988800000,
+        "Attrition Rate":3.1541358192,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1453593600000,
+        "Attrition Rate":2.6404787297,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1454198400000,
+        "Attrition Rate":2.7359946388,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1454803200000,
+        "Attrition Rate":2.8487719253,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1455408000000,
+        "Attrition Rate":3.1050733336,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1456012800000,
+        "Attrition Rate":2.7016945333,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1456617600000,
+        "Attrition Rate":2.7314017218,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1457222400000,
+        "Attrition Rate":2.9614915762,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1457827200000,
+        "Attrition Rate":3.2102707873,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1458432000000,
+        "Attrition Rate":2.6069496105,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1459036800000,
+        "Attrition Rate":2.6992423523,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1459641600000,
+        "Attrition Rate":2.9744543801,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1460246400000,
+        "Attrition Rate":3.2292652045,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1460851200000,
+        "Attrition Rate":2.7022499769,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1461456000000,
+        "Attrition Rate":2.7397671665,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1462060800000,
+        "Attrition Rate":2.8542039383,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1462665600000,
+        "Attrition Rate":3.1381011299,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1463270400000,
+        "Attrition Rate":2.6436638218,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1463875200000,
+        "Attrition Rate":2.7907890439,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1464480000000,
+        "Attrition Rate":2.8743621153,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1465084800000,
+        "Attrition Rate":3.1384431932,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1465689600000,
+        "Attrition Rate":2.6351137397,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1466294400000,
+        "Attrition Rate":2.7249849517,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1466899200000,
+        "Attrition Rate":3.0445309344,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1467504000000,
+        "Attrition Rate":3.2428199474,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1468108800000,
+        "Attrition Rate":2.9517108571,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1468713600000,
+        "Attrition Rate":2.7551884187,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1469318400000,
+        "Attrition Rate":3.0591990701,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1469923200000,
+        "Attrition Rate":3.0659412526,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1470528000000,
+        "Attrition Rate":2.7528565443,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1471132800000,
+        "Attrition Rate":2.7219904974,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1471737600000,
+        "Attrition Rate":3.1534634404,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1472342400000,
+        "Attrition Rate":3.0234143493,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1472947200000,
+        "Attrition Rate":2.8028365357,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1473552000000,
+        "Attrition Rate":2.8013224117,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1474156800000,
+        "Attrition Rate":2.8909365217,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1474761600000,
+        "Attrition Rate":3.1298761628,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1475366400000,
+        "Attrition Rate":2.6324846149,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1475971200000,
+        "Attrition Rate":2.7432353392,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1476576000000,
+        "Attrition Rate":3.0308715923,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1477180800000,
+        "Attrition Rate":2.9853919527,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1477785600000,
+        "Attrition Rate":2.5634879057,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1478390400000,
+        "Attrition Rate":2.7603169229,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1478995200000,
+        "Attrition Rate":3.038842145,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1479600000000,
+        "Attrition Rate":3.2345379764,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1480204800000,
+        "Attrition Rate":2.6811115199,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1480809600000,
+        "Attrition Rate":2.6465093,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1481414400000,
+        "Attrition Rate":2.8375987346,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1482019200000,
+        "Attrition Rate":3.1973539038,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1482624000000,
+        "Attrition Rate":2.7044407351,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1483228800000,
+        "Attrition Rate":2.7050007494,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1483833600000,
+        "Attrition Rate":2.960307279,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1484438400000,
+        "Attrition Rate":3.3940437158,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1485043200000,
+        "Attrition Rate":2.6551321706,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1485648000000,
+        "Attrition Rate":2.6933063109,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1486252800000,
+        "Attrition Rate":3.0555306457,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1486857600000,
+        "Attrition Rate":3.1305927763,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1487462400000,
+        "Attrition Rate":2.7871114307,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1488067200000,
+        "Attrition Rate":2.7131469679,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1488672000000,
+        "Attrition Rate":2.8684904037,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1489276800000,
+        "Attrition Rate":3.2601264794,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1489881600000,
+        "Attrition Rate":2.7531709316,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1490486400000,
+        "Attrition Rate":2.7644488808,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1491091200000,
+        "Attrition Rate":2.8306697806,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1491696000000,
+        "Attrition Rate":2.9881924899,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1492300800000,
+        "Attrition Rate":2.6443552629,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1492905600000,
+        "Attrition Rate":2.779814473,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1493510400000,
+        "Attrition Rate":2.9809505346,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1494115200000,
+        "Attrition Rate":3.2603306743,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1494720000000,
+        "Attrition Rate":2.7124759555,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1495324800000,
+        "Attrition Rate":2.7721687802,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1495929600000,
+        "Attrition Rate":2.8189518834,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1496534400000,
+        "Attrition Rate":3.3967626816,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1497139200000,
+        "Attrition Rate":2.5179243038,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1497744000000,
+        "Attrition Rate":2.7592057277,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1498348800000,
+        "Attrition Rate":2.9199180198,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1498953600000,
+        "Attrition Rate":3.0264415902,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1499558400000,
+        "Attrition Rate":2.7221691387,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1500163200000,
+        "Attrition Rate":2.7705985577,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1500768000000,
+        "Attrition Rate":2.8756317324,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1501372800000,
+        "Attrition Rate":3.0060108864,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1501977600000,
+        "Attrition Rate":2.708399098,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1502582400000,
+        "Attrition Rate":2.7128828966,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1503187200000,
+        "Attrition Rate":3.0713513124,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1503792000000,
+        "Attrition Rate":3.307409792,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1504396800000,
+        "Attrition Rate":2.8330569772,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1505001600000,
+        "Attrition Rate":2.7938028034,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1505606400000,
+        "Attrition Rate":2.8434123573,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1506211200000,
+        "Attrition Rate":3.0718587257,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1506816000000,
+        "Attrition Rate":2.7613596055,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1507420800000,
+        "Attrition Rate":2.7330839723,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1508025600000,
+        "Attrition Rate":3.064785759,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1508630400000,
+        "Attrition Rate":3.3335291142,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1509235200000,
+        "Attrition Rate":2.8517673745,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1509840000000,
+        "Attrition Rate":2.7616013775,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1510444800000,
+        "Attrition Rate":2.9249505221,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1511049600000,
+        "Attrition Rate":3.1343938646,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1511654400000,
+        "Attrition Rate":2.710215037,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1512259200000,
+        "Attrition Rate":2.7645311482,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1512864000000,
+        "Attrition Rate":2.8539503352,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1513468800000,
+        "Attrition Rate":3.1513702481,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1514073600000,
+        "Attrition Rate":2.5294149827,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1514678400000,
+        "Attrition Rate":2.6912257406,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1515283200000,
+        "Attrition Rate":2.8801153065,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1515888000000,
+        "Attrition Rate":3.0246056513,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1516492800000,
+        "Attrition Rate":2.6454530476,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1517097600000,
+        "Attrition Rate":2.7438528191,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1517702400000,
+        "Attrition Rate":3.0949619473,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1518307200000,
+        "Attrition Rate":3.2725561401,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1518912000000,
+        "Attrition Rate":2.7392796622,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1519516800000,
+        "Attrition Rate":2.7481625322,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1520121600000,
+        "Attrition Rate":2.9145958083,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1520726400000,
+        "Attrition Rate":3.2306050473,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1521331200000,
+        "Attrition Rate":2.6090784803,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1521936000000,
+        "Attrition Rate":2.7379004355,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1522540800000,
+        "Attrition Rate":3.0657738261,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1523145600000,
+        "Attrition Rate":2.986899205,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1523750400000,
+        "Attrition Rate":2.7470571678,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1524355200000,
+        "Attrition Rate":2.7250945268,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1524960000000,
+        "Attrition Rate":2.8119824862,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1525564800000,
+        "Attrition Rate":3.3243365085,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1526169600000,
+        "Attrition Rate":2.7358869999,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1526774400000,
+        "Attrition Rate":2.7127687677,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1527379200000,
+        "Attrition Rate":2.9159474801,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1527984000000,
+        "Attrition Rate":3.4047747612,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1528588800000,
+        "Attrition Rate":2.7066204321,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1529193600000,
+        "Attrition Rate":2.7158361192,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1529798400000,
+        "Attrition Rate":3.0244237783,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1530403200000,
+        "Attrition Rate":3.0590989222,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1531008000000,
+        "Attrition Rate":2.7663269671,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1531612800000,
+        "Attrition Rate":2.7265641893,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1532217600000,
+        "Attrition Rate":3.0319641466,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1532822400000,
+        "Attrition Rate":3.3386713657,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1533427200000,
+        "Attrition Rate":2.711650726,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1534032000000,
+        "Attrition Rate":2.6401267201,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1534636800000,
+        "Attrition Rate":3.0246150834,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1535241600000,
+        "Attrition Rate":3.0443256672,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1535846400000,
+        "Attrition Rate":2.5580569493,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1536451200000,
+        "Attrition Rate":2.8099782347,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1537056000000,
+        "Attrition Rate":3.1178143913,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1537660800000,
+        "Attrition Rate":2.9852028352,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1538265600000,
+        "Attrition Rate":2.8873314267,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1538870400000,
+        "Attrition Rate":2.6506176141,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1539475200000,
+        "Attrition Rate":3.0859361219,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1540080000000,
+        "Attrition Rate":3.2209958379,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1540684800000,
+        "Attrition Rate":2.7074212362,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1541289600000,
+        "Attrition Rate":2.685281121,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1541894400000,
+        "Attrition Rate":2.9816973175,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1542499200000,
+        "Attrition Rate":3.3572195841,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1543104000000,
+        "Attrition Rate":2.8172566974,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1543708800000,
+        "Attrition Rate":2.7299330293,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1544313600000,
+        "Attrition Rate":2.9064694137,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1544918400000,
+        "Attrition Rate":3.2088537799,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1545523200000,
+        "Attrition Rate":2.5180369974,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1546128000000,
+        "Attrition Rate":2.7192162054,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1546732800000,
+        "Attrition Rate":2.8631188591,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1547337600000,
+        "Attrition Rate":3.3037767644,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1547942400000,
+        "Attrition Rate":2.7591301229,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1548547200000,
+        "Attrition Rate":2.6522900779,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1549152000000,
+        "Attrition Rate":2.8964021755,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1549756800000,
+        "Attrition Rate":3.2345631461,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1550361600000,
+        "Attrition Rate":2.7973187701,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1550966400000,
+        "Attrition Rate":2.7435492968,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1551571200000,
+        "Attrition Rate":2.859721697,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1552176000000,
+        "Attrition Rate":3.0475754289,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1552780800000,
+        "Attrition Rate":2.5607337194,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1553385600000,
+        "Attrition Rate":2.6846053465,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1553990400000,
+        "Attrition Rate":3.0068803138,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1554595200000,
+        "Attrition Rate":3.326168104,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1555200000000,
+        "Attrition Rate":2.6538545879,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1555804800000,
+        "Attrition Rate":2.7994622758,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1556409600000,
+        "Attrition Rate":2.8178041686,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1557014400000,
+        "Attrition Rate":3.0825532984,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1557619200000,
+        "Attrition Rate":2.5499612881,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1558224000000,
+        "Attrition Rate":2.7804715838,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1558828800000,
+        "Attrition Rate":3.0962041972,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1559433600000,
+        "Attrition Rate":3.3898257546,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1560038400000,
+        "Attrition Rate":2.5109342225,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1560643200000,
+        "Attrition Rate":2.6559661489,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1561248000000,
+        "Attrition Rate":2.8348652621,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1561852800000,
+        "Attrition Rate":2.9735615147,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1562457600000,
+        "Attrition Rate":2.8685083563,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1563062400000,
+        "Attrition Rate":2.7971157322,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1563667200000,
+        "Attrition Rate":3.0834351615,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1564272000000,
+        "Attrition Rate":3.1212340723,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1564876800000,
+        "Attrition Rate":2.6876764065,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1565481600000,
+        "Attrition Rate":2.7355419034,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1566086400000,
+        "Attrition Rate":3.0613834902,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1566691200000,
+        "Attrition Rate":3.3223822033,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1567296000000,
+        "Attrition Rate":2.6192591396,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1567900800000,
+        "Attrition Rate":2.6980458576,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1568505600000,
+        "Attrition Rate":2.909309032,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1569110400000,
+        "Attrition Rate":3.2489824307,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1569715200000,
+        "Attrition Rate":2.5983953395,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1570320000000,
+        "Attrition Rate":2.6455616803,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1570924800000,
+        "Attrition Rate":2.9472365532,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1571529600000,
+        "Attrition Rate":3.3392029492,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1572134400000,
+        "Attrition Rate":2.6219629783,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1572739200000,
+        "Attrition Rate":2.7405065495,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1573344000000,
+        "Attrition Rate":2.8302081023,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1573948800000,
+        "Attrition Rate":3.0686705203,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1574553600000,
+        "Attrition Rate":2.6856722656,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1575158400000,
+        "Attrition Rate":2.7040670955,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1575763200000,
+        "Attrition Rate":2.9407963831,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1576368000000,
+        "Attrition Rate":3.0159370288,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1576972800000,
+        "Attrition Rate":2.5503277393,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1577577600000,
+        "Attrition Rate":2.6627216332,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1578182400000,
+        "Attrition Rate":3.0537205884,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1578787200000,
+        "Attrition Rate":3.2446632694,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1579392000000,
+        "Attrition Rate":2.5321699217,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1579996800000,
+        "Attrition Rate":2.7991273422,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1580601600000,
+        "Attrition Rate":3.0590332587,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1581206400000,
+        "Attrition Rate":3.0118392937,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1581811200000,
+        "Attrition Rate":2.4845989104,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1582416000000,
+        "Attrition Rate":2.7596969501,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1583020800000,
+        "Attrition Rate":3.0545061798,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1583625600000,
+        "Attrition Rate":3.0497650373,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1584230400000,
+        "Attrition Rate":2.654440787,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1584835200000,
+        "Attrition Rate":2.6413632614,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1585440000000,
+        "Attrition Rate":2.9501922607,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1586044800000,
+        "Attrition Rate":3.2844182565,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1586649600000,
+        "Attrition Rate":2.9798843898,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1587254400000,
+        "Attrition Rate":2.7764497711,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1587859200000,
+        "Attrition Rate":2.8093034102,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1588464000000,
+        "Attrition Rate":3.3906513661,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1589068800000,
+        "Attrition Rate":2.6260027564,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1589673600000,
+        "Attrition Rate":2.6680789092,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1590278400000,
+        "Attrition Rate":2.9186618362,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1590883200000,
+        "Attrition Rate":3.0095742415,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1591488000000,
+        "Attrition Rate":2.5719835673,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1592092800000,
+        "Attrition Rate":2.7172242527,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1592697600000,
+        "Attrition Rate":2.966848493,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1593302400000,
+        "Attrition Rate":3.0855670804,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1593907200000,
+        "Attrition Rate":2.7585699194,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1594512000000,
+        "Attrition Rate":2.7757488392,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1595116800000,
+        "Attrition Rate":2.9400655041,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1595721600000,
+        "Attrition Rate":3.1701554283,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1596326400000,
+        "Attrition Rate":2.8208676551,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1596931200000,
+        "Attrition Rate":2.6711581964,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1597536000000,
+        "Attrition Rate":2.8346532768,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1598140800000,
+        "Attrition Rate":3.3201383941,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1598745600000,
+        "Attrition Rate":2.7571372691,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1599350400000,
+        "Attrition Rate":2.8012677583,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1599955200000,
+        "Attrition Rate":2.9182245157,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1600560000000,
+        "Attrition Rate":3.2505683099,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1601164800000,
+        "Attrition Rate":2.7341201317,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1601769600000,
+        "Attrition Rate":2.8169013621,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1602374400000,
+        "Attrition Rate":3.0677424696,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1602979200000,
+        "Attrition Rate":3.3947222844,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1603584000000,
+        "Attrition Rate":2.5848582501,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1604188800000,
+        "Attrition Rate":2.7605812106,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1604793600000,
+        "Attrition Rate":2.8220768558,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1605398400000,
+        "Attrition Rate":3.3786984304,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1606003200000,
+        "Attrition Rate":2.6929095172,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1606608000000,
+        "Attrition Rate":2.7778125761,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1607212800000,
+        "Attrition Rate":2.9283072879,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1607817600000,
+        "Attrition Rate":3.2384889547,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1608422400000,
+        "Attrition Rate":2.6056484898,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1609027200000,
+        "Attrition Rate":2.7246617971,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1609632000000,
+        "Attrition Rate":2.9988133617,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1610236800000,
+        "Attrition Rate":3.2501692422,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1610841600000,
+        "Attrition Rate":2.5639300875,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1611446400000,
+        "Attrition Rate":2.7236535551,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1612051200000,
+        "Attrition Rate":2.9008730383,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1612656000000,
+        "Attrition Rate":3.1444431358,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1613260800000,
+        "Attrition Rate":2.7105507463,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1613865600000,
+        "Attrition Rate":2.7468399672,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1614470400000,
+        "Attrition Rate":2.8826216106,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1615075200000,
+        "Attrition Rate":3.2296070253,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1615680000000,
+        "Attrition Rate":2.6355065906,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1616284800000,
+        "Attrition Rate":2.7925962041,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1616889600000,
+        "Attrition Rate":2.8880576342,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1617494400000,
+        "Attrition Rate":3.3384715753,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1618099200000,
+        "Attrition Rate":2.6070265818,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1618704000000,
+        "Attrition Rate":2.7110615296,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1619308800000,
+        "Attrition Rate":2.8354473468,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1619913600000,
+        "Attrition Rate":3.2012466791,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1620518400000,
+        "Attrition Rate":2.9042659299,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1621123200000,
+        "Attrition Rate":2.7205005424,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1621728000000,
+        "Attrition Rate":3.1136072526,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1622332800000,
+        "Attrition Rate":3.3461954437,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1622937600000,
+        "Attrition Rate":2.6982166564,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1623542400000,
+        "Attrition Rate":2.78846308,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1624147200000,
+        "Attrition Rate":2.9922506731,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1624752000000,
+        "Attrition Rate":3.1959756464,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1625356800000,
+        "Attrition Rate":2.7041633516,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1625961600000,
+        "Attrition Rate":2.6724470516,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1626566400000,
+        "Attrition Rate":2.9816626722,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1627171200000,
+        "Attrition Rate":3.1450236421,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1627776000000,
+        "Attrition Rate":2.9123040442,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1628380800000,
+        "Attrition Rate":2.7338424572,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1628985600000,
+        "Attrition Rate":2.8391863913,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1629590400000,
+        "Attrition Rate":3.1237784843,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1630195200000,
+        "Attrition Rate":2.7090015543,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1630800000000,
+        "Attrition Rate":2.6955685801,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1631404800000,
+        "Attrition Rate":2.8284632038,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1632009600000,
+        "Attrition Rate":3.0058775146,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1632614400000,
+        "Attrition Rate":2.5358592718,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1633219200000,
+        "Attrition Rate":2.7235386595,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1633824000000,
+        "Attrition Rate":3.0906273891,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1634428800000,
+        "Attrition Rate":3.1472932641,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1635033600000,
+        "Attrition Rate":2.7249788278,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1635638400000,
+        "Attrition Rate":2.6966855979,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1636243200000,
+        "Attrition Rate":2.9860513549,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1636848000000,
+        "Attrition Rate":3.2454683894,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1637452800000,
+        "Attrition Rate":2.9331809621,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1638057600000,
+        "Attrition Rate":2.731718531,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1638662400000,
+        "Attrition Rate":2.8328358565,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1639267200000,
+        "Attrition Rate":3.0966281959,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1639872000000,
+        "Attrition Rate":2.6392125906,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1640476800000,
+        "Attrition Rate":2.6585162412,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1641081600000,
+        "Attrition Rate":2.8598478884,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1641686400000,
+        "Attrition Rate":2.9881725539,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1642291200000,
+        "Attrition Rate":2.9042602402,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1642896000000,
+        "Attrition Rate":2.7903630024,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1643500800000,
+        "Attrition Rate":3.0268932803,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1644105600000,
+        "Attrition Rate":3.0632400384,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1644710400000,
+        "Attrition Rate":2.5191264444,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1645315200000,
+        "Attrition Rate":2.7113883055,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1645920000000,
+        "Attrition Rate":2.9692244308,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1646524800000,
+        "Attrition Rate":3.1477944997,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1647129600000,
+        "Attrition Rate":2.729070443,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1647734400000,
+        "Attrition Rate":2.7835690353,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1648339200000,
+        "Attrition Rate":2.874680143,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1648944000000,
+        "Attrition Rate":3.3002765413,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1649548800000,
+        "Attrition Rate":2.6528754839,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1650153600000,
+        "Attrition Rate":2.7273995027,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1650758400000,
+        "Attrition Rate":2.7980034495,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1651363200000,
+        "Attrition Rate":3.1794503011,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1651968000000,
+        "Attrition Rate":2.8955289094,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1652572800000,
+        "Attrition Rate":2.6725211477,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1653177600000,
+        "Attrition Rate":3.1233831972,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1653782400000,
+        "Attrition Rate":3.1283048821,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1654387200000,
+        "Attrition Rate":2.5086290284,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1654992000000,
+        "Attrition Rate":2.7346356945,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1655596800000,
+        "Attrition Rate":2.8843523072,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1656201600000,
+        "Attrition Rate":3.085118974,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1656806400000,
+        "Attrition Rate":2.8207398931,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1657411200000,
+        "Attrition Rate":2.7573533248,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1658016000000,
+        "Attrition Rate":3.032277852,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1658620800000,
+        "Attrition Rate":3.1022460556,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1659225600000,
+        "Attrition Rate":2.8654600232,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1659830400000,
+        "Attrition Rate":2.7857970281,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1660435200000,
+        "Attrition Rate":2.8062365338,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1661040000000,
+        "Attrition Rate":3.3196653597,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1661644800000,
+        "Attrition Rate":2.6854799094,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1662249600000,
+        "Attrition Rate":2.8457636482,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1662854400000,
+        "Attrition Rate":2.859425342,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1663459200000,
+        "Attrition Rate":3.2271420933,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1664064000000,
+        "Attrition Rate":2.599762909,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1664668800000,
+        "Attrition Rate":2.7520681914,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1665273600000,
+        "Attrition Rate":2.8803375445,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1665878400000,
+        "Attrition Rate":3.0742527391,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1666483200000,
+        "Attrition Rate":2.7471655041,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1667088000000,
+        "Attrition Rate":2.6945493791,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1667692800000,
+        "Attrition Rate":2.9719185789,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1668297600000,
+        "Attrition Rate":3.2861466453,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1668902400000,
+        "Attrition Rate":2.5006034189,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1669507200000,
+        "Attrition Rate":2.7521482487,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1670112000000,
+        "Attrition Rate":3.0539414236,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1670716800000,
+        "Attrition Rate":3.0016932413,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1671321600000,
+        "Attrition Rate":2.7101768872,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1671926400000,
+        "Attrition Rate":2.8116367193,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1672531200000,
+        "Attrition Rate":3.0812268063,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1673136000000,
+        "Attrition Rate":3.2692215233,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1673740800000,
+        "Attrition Rate":2.790376534,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1674345600000,
+        "Attrition Rate":2.7228526729,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1674950400000,
+        "Attrition Rate":3.0079822131,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1675555200000,
+        "Attrition Rate":3.2759537499,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1676160000000,
+        "Attrition Rate":2.6854232438,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1676764800000,
+        "Attrition Rate":2.720976332,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1677369600000,
+        "Attrition Rate":3.0715134581,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1677974400000,
+        "Attrition Rate":3.4194388698,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1678579200000,
+        "Attrition Rate":2.6999950405,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1679184000000,
+        "Attrition Rate":2.7850802739,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1679788800000,
+        "Attrition Rate":3.0510952417,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1680393600000,
+        "Attrition Rate":3.2423975801,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1680998400000,
+        "Attrition Rate":2.8368082373,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1681603200000,
+        "Attrition Rate":2.7009988668,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1682208000000,
+        "Attrition Rate":2.8546854661,
+        "Unnamed: 0":null
+    },
+    {
+        "date":1682812800000,
+        "Attrition Rate":2.6216664155,
+        "Unnamed: 0":429.0
+    },
+    {
+        "date":1683417600000,
+        "Attrition Rate":2.4205524206,
+        "Unnamed: 0":430.0
+    },
+    {
+        "date":1684022400000,
+        "Attrition Rate":2.4146604384,
+        "Unnamed: 0":431.0
+    },
+    {
+        "date":1684627200000,
+        "Attrition Rate":2.415925092,
+        "Unnamed: 0":432.0
+    },
+    {
+        "date":1685232000000,
+        "Attrition Rate":2.4887119138,
+        "Unnamed: 0":433.0
+    },
+    {
+        "date":1685836800000,
+        "Attrition Rate":2.6071821831,
+        "Unnamed: 0":434.0
+    },
+    {
+        "date":1686441600000,
+        "Attrition Rate":2.7996191954,
+        "Unnamed: 0":435.0
+    },
+    {
+        "date":1687046400000,
+        "Attrition Rate":2.5786163522,
+        "Unnamed: 0":436.0
+    },
+    {
+        "date":1687651200000,
+        "Attrition Rate":2.3930912496,
+        "Unnamed: 0":437.0
+    },
+    {
+        "date":1688256000000,
+        "Attrition Rate":2.3496655462,
+        "Unnamed: 0":438.0
+    },
+    {
+        "date":1688860800000,
+        "Attrition Rate":2.502240069,
+        "Unnamed: 0":439.0
+    },
+    {
+        "date":1689465600000,
+        "Attrition Rate":2.8360897331,
+        "Unnamed: 0":440.0
+    },
+    {
+        "date":1690070400000,
+        "Attrition Rate":2.7479280245,
+        "Unnamed: 0":441.0
+    },
+    {
+        "date":1690675200000,
+        "Attrition Rate":3.6072019222,
+        "Unnamed: 0":442.0
+    },
+    {
+        "date":1691280000000,
+        "Attrition Rate":3.6336987389,
+        "Unnamed: 0":443.0
+    },
+    {
+        "date":1691884800000,
+        "Attrition Rate":2.8141912207,
+        "Unnamed: 0":444.0
+    },
+    {
+        "date":1692489600000,
+        "Attrition Rate":2.6011818155,
+        "Unnamed: 0":445.0
+    },
+    {
+        "date":1693094400000,
+        "Attrition Rate":3.078821352,
+        "Unnamed: 0":446.0
+    },
+    {
+        "date":1693699200000,
+        "Attrition Rate":3.4193492206,
+        "Unnamed: 0":447.0
+    },
+    {
+        "date":1694304000000,
+        "Attrition Rate":3.1071655041,
+        "Unnamed: 0":448.0
+    },
+    {
+        "date":1694908800000,
+        "Attrition Rate":2.8543533195,
+        "Unnamed: 0":449.0
+    },
+    {
+        "date":1695513600000,
+        "Attrition Rate":2.56,
+        "Unnamed: 0":450.0
+    },
+    {
+        "date":1696118400000,
+        "Attrition Rate":2.4254985436,
+        "Unnamed: 0":451.0
+    },
+    {
+        "date":1696723200000,
+        "Attrition Rate":2.238951082,
+        "Unnamed: 0":452.0
+    },
+    {
+        "date":1697328000000,
+        "Attrition Rate":1.7234371189,
+        "Unnamed: 0":453.0
+    },
+    {
+        "date":1697932800000,
+        "Attrition Rate":1.664748548,
+        "Unnamed: 0":454.0
+    },
+    {
+        "date":1698537600000,
+        "Attrition Rate":2.6219384551,
+        "Unnamed: 0":455.0
+    },
+    {
+        "date":1699142400000,
+        "Attrition Rate":2.728915816,
+        "Unnamed: 0":456.0
+    },
+    {
+        "date":1699747200000,
+        "Attrition Rate":2.1213492183,
+        "Unnamed: 0":457.0
+    },
+    {
+        "date":1700352000000,
+        "Attrition Rate":2.3521822197,
+        "Unnamed: 0":458.0
+    },
+    {
+        "date":1700956800000,
+        "Attrition Rate":2.7601787731,
+        "Unnamed: 0":459.0
+    },
+    {
+        "date":1701561600000,
+        "Attrition Rate":3.2881355932,
+        "Unnamed: 0":460.0
+    },
+    {
+        "date":1702166400000,
+        "Attrition Rate":3.0399230399,
+        "Unnamed: 0":461.0
+    },
+    {
+        "date":1702771200000,
+        "Attrition Rate":2.4319984889,
+        "Unnamed: 0":462.0
+    },
+    {
+        "date":1703376000000,
+        "Attrition Rate":2.5847174549,
+        "Unnamed: 0":463.0
+    },
+    {
+        "date":1703980800000,
+        "Attrition Rate":3.0651505707,
+        "Unnamed: 0":464.0
+    },
+    {
+        "date":1704585600000,
+        "Attrition Rate":3.0048001995,
+        "Unnamed: 0":465.0
+    },
+    {
+        "date":1705190400000,
+        "Attrition Rate":2.5511220951,
+        "Unnamed: 0":466.0
+    },
+    {
+        "date":1705795200000,
+        "Attrition Rate":2.4773532887,
+        "Unnamed: 0":467.0
+    },
+    {
+        "date":1706400000000,
+        "Attrition Rate":2.5426892771,
+        "Unnamed: 0":468.0
+    },
+    {
+        "date":1707004800000,
+        "Attrition Rate":2.9602508423,
+        "Unnamed: 0":469.0
+    },
+    {
+        "date":1707609600000,
+        "Attrition Rate":3.0513230194,
+        "Unnamed: 0":470.0
+    },
+    {
+        "date":1708214400000,
+        "Attrition Rate":2.7769697675,
+        "Unnamed: 0":471.0
+    },
+    {
+        "date":1708819200000,
+        "Attrition Rate":2.8020069471,
+        "Unnamed: 0":472.0
+    },
+    {
+        "date":1709424000000,
+        "Attrition Rate":3.1358019976,
+        "Unnamed: 0":473.0
+    },
+    {
+        "date":1710028800000,
+        "Attrition Rate":2.7992897888,
+        "Unnamed: 0":474.0
+    },
+    {
+        "date":1710633600000,
+        "Attrition Rate":2.3454037954,
+        "Unnamed: 0":475.0
+    },
+    {
+        "date":1711238400000,
+        "Attrition Rate":2.200162975,
+        "Unnamed: 0":476.0
+    },
+    {
+        "date":1711843200000,
+        "Attrition Rate":2.5033494228,
+        "Unnamed: 0":477.0
+    },
+    {
+        "date":1712448000000,
+        "Attrition Rate":2.6810041051,
+        "Unnamed: 0":478.0
+    },
+    {
+        "date":1713052800000,
+        "Attrition Rate":2.5170349328,
+        "Unnamed: 0":479.0
+    },
+    {
+        "date":1713657600000,
+        "Attrition Rate":2.4183624333,
+        "Unnamed: 0":480.0
+    },
+    {
+        "date":1714262400000,
+        "Attrition Rate":2.6706492137,
+        "Unnamed: 0":481.0
+    },
+    {
+        "date":1714867200000,
+        "Attrition Rate":2.5728601397,
+        "Unnamed: 0":482.0
+    },
+    {
+        "date":1715472000000,
+        "Attrition Rate":2.0755005869,
+        "Unnamed: 0":483.0
+    },
+    {
+        "date":1716076800000,
+        "Attrition Rate":1.9150008399,
+        "Unnamed: 0":484.0
+    },
+    {
+        "date":1716681600000,
+        "Attrition Rate":2.1456091404,
+        "Unnamed: 0":485.0
+    },
+    {
+        "date":1717286400000,
+        "Attrition Rate":2.4082981578,
+        "Unnamed: 0":486.0
+    },
+    {
+        "date":1717891200000,
+        "Attrition Rate":2.0071913704,
+        "Unnamed: 0":487.0
+    },
+    {
+        "date":1718496000000,
+        "Attrition Rate":1.6539098872,
+        "Unnamed: 0":488.0
+    },
+    {
+        "date":1719100800000,
+        "Attrition Rate":1.8721086751,
+        "Unnamed: 0":489.0
+    },
+    {
+        "date":1719705600000,
+        "Attrition Rate":2.3986640352,
+        "Unnamed: 0":490.0
+    },
+    {
+        "date":1720310400000,
+        "Attrition Rate":2.1614711085,
+        "Unnamed: 0":491.0
+    },
+    {
+        "date":1720915200000,
+        "Attrition Rate":1.8967396106,
+        "Unnamed: 0":492.0
+    },
+    {
+        "date":1721520000000,
+        "Attrition Rate":1.9440327783,
+        "Unnamed: 0":493.0
+    },
+    {
+        "date":1722124800000,
+        "Attrition Rate":2.3745107069,
+        "Unnamed: 0":494.0
+    },
+    {
+        "date":1722729600000,
+        "Attrition Rate":2.2988505747,
+        "Unnamed: 0":495.0
+    },
+    {
+        "date":1723334400000,
+        "Attrition Rate":1.9354201639,
+        "Unnamed: 0":496.0
+    },
+    {
+        "date":1723939200000,
+        "Attrition Rate":1.8647242456,
+        "Unnamed: 0":497.0
+    },
+    {
+        "date":1724544000000,
+        "Attrition Rate":1.9765133973,
+        "Unnamed: 0":498.0
+    },
+    {
+        "date":1725148800000,
+        "Attrition Rate":2.2117461654,
+        "Unnamed: 0":499.0
+    },
+    {
+        "date":1725753600000,
+        "Attrition Rate":1.5833771025,
+        "Unnamed: 0":500.0
+    }
+]
