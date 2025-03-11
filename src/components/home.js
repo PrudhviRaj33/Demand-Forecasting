@@ -321,6 +321,7 @@ const buttonStyles = `
 `;
 
 const Home = () => {
+  const API_URL = process.env.REACT_APP_API_URL || 'http://127.0.0.1:8001';
   const [isSidebarCollapsed, setSidebarCollapsed] = useState(false);
   const [file, setFile] = useState(null);
   const [ingestionResponse, setIngestionResponse] = useState(null);
@@ -366,8 +367,7 @@ const Home = () => {
       formData.append('file', file);
 
       const response = await axios.post(
-        'http://127.0.0.1:8001/demandforecast_ingestion',
-        // 'https://ai-forecast-api.datanitiv.dev/demandforecast_ingestion',
+        `${API_URL}/demandforecast_ingestion`,
         formData,
         {
           headers: { 'Content-Type': 'multipart/form-data' }
@@ -410,8 +410,7 @@ const Home = () => {
       }
 
       const response = await axios.post(
-        'http://127.0.0.1:8001/demandforecast',
-        // 'https://ai-forecast-api.datanitiv.dev/demandforecast',
+        `${API_URL}/demandforecast`,
         paramsToSend
       );
 
@@ -580,8 +579,7 @@ const Home = () => {
       }
       
       const response = await axios.post(
-        // 'http://127.0.0.1:8001/demandforecast_plot_data',
-        'https://ai-forecast-api.datanitiv.dev/demandforecast_plot_data',
+        `${API_URL}/demandforecast_plot_data`,
         params
       );
       
@@ -626,8 +624,7 @@ const Home = () => {
         .join('&');
       
       const response = await axios.get(
-        `http://127.0.0.1:8001/prepare_plot_data?${queryString}`
-        // `https://ai-forecast-api.datanitiv.dev/prepare_plot_data?${queryString}`
+        `${API_URL}/prepare_plot_data?${queryString}`
       );
       
       const cleanedData = response.data;
